@@ -1,6 +1,6 @@
 # Human Resources Management
 
-<img src ="https://res.cloudinary.com/du9huaxi3/image/upload/v1624643782/HrmsUml_xkn2eh.jpg">
+![Image](https://github.com/user-attachments/assets/c2647ddd-eb3e-44e9-a738-5df5f47673a0)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
